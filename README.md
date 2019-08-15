@@ -4,7 +4,6 @@ Just use your own domain-list and input the target.
 ```
 Usage: python scanner.py <url> <domain_list> <target>
 ```
-----
 For example:
 ```
 python scanner.py https://www.google.com demo_list.txt logo.png
